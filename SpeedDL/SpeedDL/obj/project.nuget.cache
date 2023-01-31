@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "tkWm5p4W4m4ExzPOnBZ5z2AqxP3cdDcQz8FyBP10mR9pEjiv1pAnvWZ8SR18y4DbWUv8bevLGYdEw7//iRCFPQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\masod\\OneDrive\\Desktop\\Files\\SpeedDL\\SpeedDL\\SpeedDL\\SpeedDL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\masod\\.nuget\\packages\\metromodernui\\1.4.0\\metromodernui.1.4.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'MetroModernUI 1.4.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "MetroModernUI",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}
